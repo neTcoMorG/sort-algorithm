@@ -1,6 +1,6 @@
 package me.dudwns;
 
-public class Main {
+public class SelectionSort {
     public static void main(String[] args) {
 
         int[] array = new int[] {1, 5, 4, 9, 6, 8, 2, 7, 3, 10};
